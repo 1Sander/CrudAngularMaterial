@@ -4,7 +4,7 @@ export class Cliente {
     id?: string;
     nome?: string;
     cpf?: string;
-    datanascimento?: string;
+    dataNascimento?: string;
     email?: string;
     deletando: boolean = false;
     uf?: string;
